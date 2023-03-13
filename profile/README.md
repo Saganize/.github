@@ -1,12 +1,29 @@
-## Hi there 👋
+## SAGAnize
 
-<!--
+A Mobile Suite for dApps. A Tool Suite comprising of Products/SDKs/Libraries to onboard developers to build Solana Native Mobile dApps (Kotlin). 
 
-**Here are some ideas to get you started:**
+## What are we working on?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Onboard developers on Native Mobile
+- Easy user flow and UX in Solana dApps
+- Make SAGA space more secure
+
+## What’s included?
+
+### SAGAnize dApp
+
+[https://github.com/SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)
+
+A Mobile dApp built on Native Android, which offers SAGA Identity creation to do In-App transactions using Burner Wallets in other dApps. It also provides access to notifications and ads received. 
+
+### SolWave SDK
+
+[https://github.com/SAGAnize/SolWave](https://github.com/SAGAnize/SolWave)
+
+SAGAnize SolWave is an SDK that enables in-app transactions for Solana mobile dApps, allowing developers to implement in-app transactions within their mobile applications without having to build an independent wallet for their users.
+
+### Connect SDK
+
+[https://github.com/SAGAnize/Connect](https://github.com/SAGAnize/Connect)
+
+SAGAnize Connect is an sdk for Notifications and Ads on Mobile dApps. This Kotlin SDK to allow registered dApps to send notifications and ads to SAGAnize users. Through this sdk, developers can easily integrate notification system in their dApps.
