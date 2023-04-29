@@ -12,7 +12,7 @@ A Mobile Suite for dApps. A Tool Suite comprising of Products/SDKs/Libraries to 
 
 ### SAGAnize dApp
 
-[https://github.com/SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize)
+[https://github.com/SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize) (private currently)
 
 A Mobile dApp built on Native Android, which offers SAGA Identity creation to do In-App transactions using Burner Wallets in other dApps. It also provides access to notifications and ads received. 
 
