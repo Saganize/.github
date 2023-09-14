@@ -1,29 +1,22 @@
-## SAGAnize
+## Saganize
 
-A Mobile Suite for dApps. A Tool Suite comprising of Products/SDKs/Libraries to onboard developers to build Solana Native Mobile dApps (Kotlin). 
+Saganize is **simplifying** and **securing** transactions and development on Solana Mobile. 📲
 
-## What are we working on?
+### In-App Transactions
 
-- Onboard developers on Native Mobile
-- Easy user flow and UX in Solana dApps
-- Make SAGA space more secure
+Solwave, A Kotlin SDK, enables in-app transactions for Solana mobile dApps, allowing developers to implement in-app transactions within their mobile applications without having to build an independent wallet for their users.
 
-## What’s included?
+### Features
+**Effortless Transactions**
+<br/>
+The Solwave SDK simplifies transactions by seamlessly integrating with existing wallets, providing users with a hassle-free experience.
 
-### SAGAnize dApp
+**Swift Approvals**
+<br/>
+In-app functionality ensures faster transaction approvals, resulting in smoother user interactions.
 
-[https://github.com/SAGAnize/SAGAnize](https://github.com/SAGAnize/SAGAnize) (private currently)
+**Empowering Developers**
+<br/>
+Developers can focus on creating exceptional mobile experiences, without the requirement of setting up in-app wallets.
 
-A Mobile dApp built on Native Android, which offers SAGA Identity creation to do In-App transactions using Burner Wallets in other dApps. It also provides access to notifications and ads received. 
 
-### SolWave SDK
-
-[https://github.com/SAGAnize/SolWave](https://github.com/SAGAnize/SolWave)
-
-SAGAnize SolWave is an SDK that enables in-app transactions for Solana mobile dApps, allowing developers to implement in-app transactions within their mobile applications without having to build an independent wallet for their users.
-
-### Connect SDK
-
-[https://github.com/SAGAnize/Connect](https://github.com/SAGAnize/Connect)
-
-SAGAnize Connect is an sdk for Notifications and Ads on Mobile dApps. This Kotlin SDK to allow registered dApps to send notifications and ads to SAGAnize users. Through this sdk, developers can easily integrate notification system in their dApps.
