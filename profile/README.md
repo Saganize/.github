@@ -7,16 +7,16 @@ Saganize is **simplifying** and **securing** transactions and development on Sol
 Solwave, A Kotlin SDK, enables in-app transactions for Solana mobile dApps, allowing developers to implement in-app transactions within their mobile applications without having to build an independent wallet for their users.
 
 ### Features
-**Effortless Transactions**
+**Simplified Integration:**
 <br/>
-The Solwave SDK simplifies transactions by seamlessly integrating with existing wallets, providing users with a hassle-free experience.
+Integrate Solana on mobile with minimal lines of code, ensuring efficient development.
 
-**Swift Approvals**
+**In-App Approvals:**
 <br/>
-In-app functionality ensures faster transaction approvals, resulting in smoother user interactions.
+Allow users to approve transactions directly in-app for a smoother experience.
 
-**Empowering Developers**
+**Wallet-Free Focus:**
 <br/>
-Developers can focus on creating exceptional mobile experiences, without the requirement of setting up in-app wallets.
+Bypass the complexities of wallet setup, allowing you to concentrate on delivering a superior UX.
 
 
