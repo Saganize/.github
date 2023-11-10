@@ -25,4 +25,11 @@ Rest assured, your transactions are protected by our state-of-the-art encryption
 
 3. **Swift PIN-Based Approvals**: With a swift PIN entry, users can easily approve transactions without any disruptions.
 
+### Support
+
+Need help or have questions? We're here for you! Reach out for support in the following ways:
+
+- **Community:** Join the conversation in our [Discord](https://discord.gg/YCf8jj7aE4). Share your experiences, get support, ask questions, and connect with fellow developers.
+  
+- **Contact Us:** For more personalized assistance, feel free to reach out to our twitter at [@Saganize](https://twitter.com/saganize).
 
